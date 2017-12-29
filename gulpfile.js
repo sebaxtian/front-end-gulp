@@ -25,6 +25,6 @@ gulp.task('comprimir-js', function (cb) {
 });
 
 // Default task for Gulp
-gulp.task("default", () => {
+gulp.task("default", ['compilar-estilos', 'comprimir-js'], () => {
     console.log("Gulpfile just run !");
 });
