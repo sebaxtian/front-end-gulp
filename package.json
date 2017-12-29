@@ -4,6 +4,8 @@
   "description": "Herramienta Gulp para Automatización de Tareas en Desarrollo Frontend Profesional.",
   "main": "gulpfile.js",
   "scripts": {
+    "start": "gulp",
+    "build": "gulp comprimir-js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
