@@ -1,0 +1,30 @@
+{
+  "name": "front-end-gulp",
+  "version": "1.0.0",
+  "description": "Herramienta Gulp para Automatización de Tareas en Desarrollo Frontend Profesional.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebaxtian/front-end-gulp.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulp-tasks",
+    "node",
+    "frontend",
+    "tasks",
+    "task-runner"
+  ],
+  "author": "Sebastian Rios Sabogal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebaxtian/front-end-gulp/issues"
+  },
+  "homepage": "https://github.com/sebaxtian/front-end-gulp#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
